@@ -50,14 +50,14 @@ A simple and intuitive web application to manage your contacts, including favori
 
 ## Live Demo
 
-- Check out live demo of the project : [Here](https://praveen-makecontactapp-redux-firebase.netlify.app/)
+- Check out live demo of the project : [Here](https://mayyuri.netlify.app/)
 
 ## ⚙️ Installation
 
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/praveen00219/redux-firebase-react-project.git
+   git clone https://github.com/MayuriP-05/ReduxContactList
 
    cd <directoryName>
    npm install
