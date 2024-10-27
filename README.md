@@ -103,5 +103,3 @@ A simple and intuitive web application to manage your contacts, including favori
 
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
-👤 Author: Praveen
-📧 Connect: https://www.linkedin.com/in/praveen219/
